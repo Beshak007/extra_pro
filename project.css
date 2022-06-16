@@ -1,0 +1,62 @@
+.header{display: flex;flex-direction: row;justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;padding-left: 10px;
+
+    color: gray;
+    border-radius: 10px; background-image: url(Desert.jpg);background-position: center;
+}
+
+.logo{flex: 70%;
+
+
+}
+
+.photo{width: 100px;
+
+
+
+}
+
+
+
+.nav{flex: 30%;align-items: center ;
+    display: flex;flex-direction: row;justify-content: space-around;
+    
+    
+    }
+
+.manu:hover{background-color: black;color: white;}
+
+.backg{height: 500px;background-image: url(download.jpg);  border-radius: 10px;
+text-align: center;margin-top: 20px;color: aqua;background-repeat: no-repeat;
+background-size: cover;
+
+
+
+}
+
+.section{
+display: flex;flex-direction: row;justify-content: space-around;text-align: center;
+
+margin-top: 20px;
+
+
+
+
+
+}
+
+.html{width: 200px;border-radius: 10px;}
+.jawa{width: 100px;border-radius: 10px;}
+.css{width: 150px;border-radius: 10px;}
+
+.one{height: 300px;background-image: url(download\ \(1\).png);background-repeat: no-repeat;
+background-size: cover;background-attachment: fixed;
+
+}
+
+.htm{text-align: center; color: orangered;background-color: blue;}
+
+.cs{text-align: center; color: blue;background-color: greenyellow;}
+
+.jav{text-align: center;color: greenyellow;background-color: orangered;}

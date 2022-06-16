@@ -1,0 +1,14 @@
+
+body{background-image: url(download\ \(1\).jpg);
+background-attachment: fixed;background-size: cover;background-position: center;
+
+
+
+}
+
+.row{color: rgb(0, 255, 76);}
+.col{color: blue;}
+
+table{width: 100%; border-collapse: collapse;}
+
+tr,th,td{text-align: center; border: 3px solid black;}

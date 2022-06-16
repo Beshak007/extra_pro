@@ -1,0 +1,46 @@
+.main{display: flex; flex-direction: row;}
+
+
+.left{flex: 50;background-color: lightsalmon;}
+
+.right{text-align: center; 
+
+    
+    
+    flex: 50; background-color: lightgreen;
+
+    animation: myanimation;
+
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+
+
+}
+
+@keyframes myanimation {from{background-color: lawngreen;}
+to{background-color: aqua;}
+    
+}
+
+
+
+
+
+
+
+
+
+
+ .lab{margin-right: 20px;}  
+ .pas{margin-right: 20px;}
+
+ .form{text-align:center; color: black;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.heading{text-align: center;color: brown;font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.para{color: black;}
+
+.sub:hover{color: blue;}
